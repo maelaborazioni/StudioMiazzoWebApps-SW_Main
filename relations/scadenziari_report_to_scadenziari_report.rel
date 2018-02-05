@@ -1,0 +1,7 @@
+allowCreationRelatedRecords:false,
+foreignDataSource:"db:/ma_scadenziari/scadenziari_report",
+joinType:1,
+name:"scadenziari_report_to_scadenziari_report",
+primaryDataSource:"db:/ma_scadenziari/scadenziari_report",
+typeid:22,
+uuid:"93CCAAF2-A288-462A-B83A-624283B2BDCA"

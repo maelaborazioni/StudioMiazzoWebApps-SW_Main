@@ -1,0 +1,14 @@
+dataSource:"db:/ma_scadenziari/scadenziari_report",
+extendsID:"1FF31C59-09BB-4CF9-97E8-13DA5B10B739",
+items:[
+{
+height:480,
+partType:5,
+typeid:19,
+uuid:"6EC57862-F4C6-4850-B8E3-E9E83E19F5E8"
+}
+],
+name:"sw_situazione_scadenze_scadute",
+styleName:"leaf_style",
+typeid:3,
+uuid:"C8B55F44-EDD5-4F6D-A099-5C1B1DB31EA4"

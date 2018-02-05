@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<buildpath>
+	<buildpathentry excluding=".stp/|medias/" kind="src" path=""/>
+	<buildpathentry exported="true" kind="prj" path="/AG_Ditta"/>
+	<buildpathentry exported="true" kind="prj" path="/MA_Shared"/>
+	<buildpathentry exported="true" kind="prj" path="/mod_datejs"/>
+	<buildpathentry exported="true" kind="prj" path="/mod_datepicker"/>
+	<buildpathentry exported="true" kind="prj" path="/svy_nav_navigation"/>
+	<buildpathentry exported="true" kind="prj" path="/utility"/>
+</buildpath>

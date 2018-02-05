@@ -1,0 +1,14 @@
+dataSource:"db:/ma_scadenziari/tab_scadenziari",
+extendsID:"E1B6951E-8C22-4464-9B19-707548D2B2DE",
+items:[
+{
+height:480,
+partType:5,
+typeid:19,
+uuid:"CB06A5B2-2A97-4D5B-AF84-B3288FB7FF05"
+}
+],
+name:"sw_scadenziari",
+styleName:"leaf_style",
+typeid:3,
+uuid:"F0B158B6-03F2-4E95-9A30-0A909D4A9806"

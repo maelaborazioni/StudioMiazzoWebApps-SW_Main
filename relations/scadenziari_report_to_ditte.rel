@@ -1,0 +1,10 @@
+allowCreationRelatedRecords:false,
+foreignDataSource:"db:/ma_anagrafiche/ditte",
+items:[
+{foreignColumnName:"codice",operator:0,primaryDataProviderID:"codditta",typeid:23,uuid:"EE45E24B-A2D9-42CE-83D4-4F2A4452DFEA"}
+],
+joinType:1,
+name:"scadenziari_report_to_ditte",
+primaryDataSource:"db:/ma_scadenziari/scadenziari_report",
+typeid:22,
+uuid:"8AAE04A1-19B8-4D8A-B518-745B8C1338CF"

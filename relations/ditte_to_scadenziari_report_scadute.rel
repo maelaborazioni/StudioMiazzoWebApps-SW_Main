@@ -1,0 +1,11 @@
+allowCreationRelatedRecords:true,
+foreignDataSource:"db:/ma_scadenziari/scadenziari_report",
+items:[
+{foreignColumnName:"datascadenza",operator:1,primaryDataProviderID:"globals.TODAY",typeid:23,uuid:"41F0BC89-94AB-428B-9F10-98C6091314A4"},
+{foreignColumnName:"idditta",operator:0,primaryDataProviderID:"idditta_sede",typeid:23,uuid:"A379783B-9348-4A56-963A-976B1D379FBA"}
+],
+joinType:1,
+name:"ditte_to_scadenziari_report_scadute",
+primaryDataSource:"db:/ma_anagrafiche/ditte",
+typeid:22,
+uuid:"1E2B1C0D-7872-4FEA-84A5-8E75A743AF0A"
