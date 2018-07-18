@@ -37,7 +37,7 @@ var chkFtrScadenziario = 0;
 /**
  * @type {String}
  *
- * @properties={typeid:35,uuid:"84562969-BAD6-42BF-8F23-0E138B618077",variableType:12}
+ * @properties={typeid:35,uuid:"84562969-BAD6-42BF-8F23-0E138B618077"}
  */
 var vCategoria = '';
 /**
@@ -49,7 +49,7 @@ var vIdCategoria = null;
 /**
  * @type {String}
  *
- * @properties={typeid:35,uuid:"C79F0571-04FB-490E-B4F9-DF9404C7F3D2",variableType:12}
+ * @properties={typeid:35,uuid:"C79F0571-04FB-490E-B4F9-DF9404C7F3D2"}
  */
 var vScadenziario = '';
 /**
@@ -115,7 +115,7 @@ function aggiornaDitta(ditta)
 /**
  * Filtra le categorie di scadenziari selezionabili
  * 
- * @param {JSFoundset<db:/ma_scadenziari/tab_categoriescadenziari>} fs
+ * @param {JSFoundSet<db:/ma_scadenziari/tab_categoriescadenziari>} fs
  *
  * @properties={typeid:24,uuid:"AF97FC7F-35BC-46B5-B10E-159BDB10B45F"}
  */
@@ -133,7 +133,7 @@ function FiltraCategoria(fs)
 /**
  * Filtra gli scadenziari selezionabili
  * 
- * @param {JSFoundset<db:/ma_scadenziari/tab_scadenziari>} fs
+ * @param {JSFoundSet<db:/ma_scadenziari/tab_scadenziari>} fs
  *
  * @properties={typeid:24,uuid:"A26C4952-CA61-454D-85BA-224576D2D798"}
  */

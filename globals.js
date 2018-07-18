@@ -18,7 +18,7 @@ function selezione_SW()
 	else
 	if (globals._filtroSuDitta)
 	{
-		/** @type {JSFoundset<db:/ma_anagrafiche/ditte>} */
+		/** @type {JSFoundSet<db:/ma_anagrafiche/ditte>} */
 		var fs = databaseManager.getFoundSet(globals.Server.MA_ANAGRAFICHE,globals.Table.DITTE);
 		if(fs.find())
 		{
